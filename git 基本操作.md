@@ -47,9 +47,9 @@
   git checkout new_branch_name
   ```
 
-- ![git_2](images\git_3.png)
+- ![git_2](https://github.com/songyawen/test_git/raw/master/images/git_3.png)
 
-- ![git_2](images\git_4.png)
+- ![git_2](https://github.com/songyawen/test_git/raw/master/images/git_3.png)
 
 ### Git pull request
 
